@@ -3,3 +3,39 @@
     padding:0;
     box-sizing: border-box;
 }
+
+.content {
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.box {
+    min-width: 300px;
+    align-content: flex-start;
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.search {
+    margin:10px 0 20px 10px;
+
+}
+
+.
+
+.search > input {
+    width: 70vw;
+    height: 30px;
+
+}
+
+.search > button {
+    width: 25vw;
+    height: 30px;
+    font-size: 18px;
+    box-shadow: 5px 10px;
+}
