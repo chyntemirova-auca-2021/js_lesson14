@@ -1,0 +1,121 @@
+
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1000px;
+    height: 40px;
+    border:2px solid black;
+    background-color:none;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.box-1{
+    width: 1000px;
+    height: 20px;
+    border:1px solid black;
+}
+
+.maybe {
+    width: 1000px;
+    height: 180px;
+    border: 1px solid black;
+    display: flex;
+}
+
+.box-2{
+    height: 180px;
+    width: 333px;
+    border:1px solid black;
+    flex-direction: row;
+
+}
+
+.box-3{
+    height:180px;
+    width: 333px;
+    border:1px solid black;
+    flex-direction: row;
+}
+
+.box-4 {
+    height:180px;
+    width: 333px;
+    border:1px solid black;
+    flex-direction: row;  
+}
+
+.maybe2{
+    height:230px;
+    width: 1000px;
+    border:1px solid black;
+    flex-direction: row;  
+}
+
+.man {
+    height:230px;
+    width: 500px;
+    border:1px solid black;
+    flex-direction: row;   
+}
+
+.menn{
+    height:210px;
+    width: 1000px;
+    border:1px solid black;
+    flex-direction: row;  
+}
+
+.maybe3 {
+    height:210px;
+    width: 400px;
+    border:1px solid black;
+    flex-direction: row; 
+}
+
+.maybe4{
+    height:230px;
+    width: 1000px;
+    border:1px solid black;
+    display: flex;
+      
+}
+
+.box-55{
+    height:230px;
+    width: 200px;
+    border:1px solid hsl(0, 0%, 0%);
+    flex-direction: column;  
+}
+
+.box-44{
+    height:230px;
+    width: 200px;
+    border:1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.uni3{
+    height:230px;
+    width: 200px;
+    border:1px solid black;
+    flex-direction: row;
+}
+
+.uni4{
+    height:230px;
+    width: 200px;
+    border:1px solid black;
+    flex-direction: row;
+}
+
+
+
+
+   
